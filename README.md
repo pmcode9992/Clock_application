@@ -1,6 +1,5 @@
 # Clock_application
 A Clock application with world time and stopwatch features. Used Js Date method.
 
-
-https://user-images.githubusercontent.com/93529653/235286427-22258dae-626e-4187-be34-e64576a686c9.mov
+https://user-images.githubusercontent.com/93529653/235286485-1319792a-452d-404b-bd6a-8cb2430b0e8c.mov
 
