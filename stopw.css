@@ -1,0 +1,19 @@
+main{
+    
+    display: flex;
+    margin: auto;
+  width: 40%;
+  height: 40vw;
+  text-align: center;
+  align-items: center; 
+  justify-content: center;
+  min-width: 240px;
+    min-height: 240px;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
